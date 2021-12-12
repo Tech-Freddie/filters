@@ -1,0 +1,45 @@
+www.netflix.com##.bigRow
+www.netflix.com##.billboard-row
+www.netflix.com##.bob-video-merch-player-wrapper
+www.netflix.com##.VideoMerchPlayer--in-jaw
+ads-v-darwin.hulustream.com
+https://assetshuluimcom-a.akamaihd.net
+https://www.hulu.com/03c5515e-369d-4e0d-bb06-7f2698f6bc01
+https://www.hulu.com/36c3a919-26f3-4fe3-815f-8b096b6c49b4
+https://www.hulu.com/1a176563-0555-4d9b-87c2-50387fd6cf8f
+https://www.hulu.com/f8e6fab9-7d53-4602-9d9d-bdb7198410d
+https://www.hulu.com/b393d9f6-f6cd-4f83-a6d5-f74bc53c55f3
+https://www.hulu.com/b393d9f6-f6cd-4f83-a6d5-f74bc53c55f3
+https://www.hulu.com/9609f741-8c93-4ee9-b5e7-da8308d8fe8
+https://www.hulu.com/df5e01ec-5efa-4027-a03d-9a49b51fc81d
+https://www.hulu.com/16e2779a-1285-4d0f-a55f-837ad91455e7
+https://www.hulu.com/29933a3d-9e17-4157-a6db-4d510d57fb9b
+https://www.hulu.com/279e4f02-38ae-4868-9cbd-85140fff4cf1
+https://www.hulu.com/2439a89f-aff0-4a3c-bb8e-ac352daf28eb
+https://www.hulu.com/ae020f1d-a765-44a5-ac57-f65b5a3f3113
+https://www.hulu.com/f36acad0-e70f-4b70-9590-1d6a1faf7030
+https://www.hulu.com/1180b16e-c410-4803-83d0-1c2b26bba444
+https://www.hulu.com/53524c3c-20e9-478e-84eb-c3c8e706f8c3
+*adsrvr.org*
+thrillist.com###popup-signup > div.main.wrapper.clearfix
+thrillist.com###popup-signup
+thrillist.com###vortex-overlay
+catster.com##div.sumo-form-wrapper.listbuilder-popup:last-child > div.listbuilder-popup-content:last-child > div.listbuilder-popup-scale > div
+catster.com##div.sumo-form-wrapper.listbuilder-popup:last-child
+https://ads-v-darwin.hulustream.com
+*js.adsrvr.org* 
+nbcnews.com##div.fEy1Z2XT:nth-child(83) > div.dgEhJe6g > div._9r0K-Oum._5kE-6aUK.ee1LJQRm:first-child > div._1U8keQ4i > div > iframe.bj5ZM4fy:last-child
+nbcnews.com##div.fEy1Z2XT:nth-child(83) > div.dgEhJe6g
+nbcnews.com##div.fEy1Z2XT:nth-child(83)
+www9.123movies.fun###shr_canvas1 > div:first-child > div.shareaholic-share-buttons-container.shareaholic-ui.shr-no-print.shareaholic-flat.shareaholic-.shareaholic-floated.shareaholic-inset-counter.shareaholic-vertical.shareaholic-right-align.shareaholic-large > div.shareaholic-share-buttons-wrapper.shareaholic-ui:last-child > div.shareaholic-share-buttons-animation-wrapper.shareaholic-item-enter-right-animation:first-child
+ww4.narutoget.ru##div.container:nth-child(4) > div.mainbox > a.logo:first-child
+ww4.narutoget.ru###links
+ww4.narutoget.ru###search-box
+ww4.narutoget.ru###search
+ww4.narutoget.ru##div.container:nth-child(4) > div.mainbox > div.content:last-child > div.row > div.col-12 > table.content:nth-child(3) > tbody > tr:last-child > td.style100:first-child
+ww4.narutoget.ru##div.container:nth-child(4) > div.mainbox > div.content:last-child > div.row > div.col-12 > table.content:nth-child(3) > tbody > tr:last-child > td.style100:last-child
+ww4.narutoget.ru##div.container:nth-child(4) > div.mainbox > div.content:last-child > div.row > div.col-12 > h1:nth-child(2)
+listenonrepeat.com##div.fc-ab-root:nth-child(13) > div.fc-dialog-container:last-child > section
+listenonrepeat.com##div.fc-ab-root:nth-child(13) > div.fc-dialog-overlay:first-child
+listenonrepeat.com##div.fc-ab-root:nth-child(13)
+blob:https://www.hulu.com/76cfa618-99cc-4aae-82a2-6ed38badc6fd$domain=hulu.com
